@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2023-11-05 13:06-0500\n"
-"PO-Revision-Date: 2025-02-01 15:02+0000\n"
+"PO-Revision-Date: 2025-02-04 13:02+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/"
 "nickvision-tagger/docs/fi/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "kääntäjien ansiot"
+msgstr "Jiri Grönroos"
 
 #. (itstool) path: info/title
 #: yelp/C/configuration.page:8
